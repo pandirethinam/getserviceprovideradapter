@@ -1,0 +1,2 @@
+# getserviceprovideradapter
+adapter
